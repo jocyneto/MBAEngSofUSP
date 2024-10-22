@@ -17,8 +17,8 @@ Este repositório funcionara através de outros repositórios criados no Github 
 <br><br>
 > MÓDULO: X
 >
-> - NOME DA AULA DO MODULO
->   - LINK REPOSITÓRIO: [LINK PARA REPOSITÓRIO](https://github.com/ "Exemplo de como será feito em cada repositório.")
+> NOME DA AULA DO MODULO
+> - LINK REPOSITÓRIO: [LINK PARA REPOSITÓRIO](https://github.com/ "Exemplo de como será feito em cada repositório.")
 > 
 *OBS: Se o projeto tiver algum tipo de complementação, como link para visualização de algum site criado, utilização de API, bibliográfia e outros artefatos tudo será detalhado dentro do `README.md` do próprio repositório*
 <br><br><br>
