@@ -1,8 +1,8 @@
 # MBA Engenharia de Software
 
-| Status           | Inicio em        | Termino em       | Módulo atual     |
-| ---------------- | ---------------- | ---------------- | ---------------- | 
-| EM PROGRESSO     | 10/2024          | 04/2026          | **INTRODUTÓRIO** |
+| Status              | Inicio do curso em  | Termino do curso em | Módulo atual        |
+| ------------------- | ------------------- | ------------------- | ------------------- | 
+| EM PROGRESSO        | 10/2024             | 04/2026             | **INTRODUTÓRIO**    |
 
 <br>
 
