@@ -28,10 +28,10 @@ Este repositório funcionara através de outros repositórios criados no Github 
 ### MÓDULO: INTRODUTÓRIO
 
 #### Desenvolvimento Frontend I e II – HTML e CSS
-- Acesse **[Clicando aqui](https://github.com/jocyneto/MBAdesenvolvimentoweb)**
+- Acesse [**Clicando aqui**](https://github.com/jocyneto/MBAdesenvolvimentoweb)
 
 #### Desenvolvimento Backend I – Criando um backend com Python
-- Acesse **[Clicando aqui](https://github.com/jocyneto/MBADevBackEnd)** 
+- Acesse [**Clicando aqui**](https://github.com/jocyneto/MBADevBackEnd)
 
 #### Desenvolvimento Backend II – Django
 - Acesse clicando AQUI 
