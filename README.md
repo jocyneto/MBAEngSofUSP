@@ -30,11 +30,8 @@ Este repositório funcionara através de outros repositórios criados no Github 
 #### Desenvolvimento Frontend I e II – HTML e CSS
 - Acesse [**Clicando aqui**](https://github.com/jocyneto/MBAdesenvolvimentoweb)
 
-#### Desenvolvimento Backend I – Criando um backend com Python
+#### Desenvolvimento Backend I e II – Criando um backend com Python (Django)
 - Acesse [**Clicando aqui**](https://github.com/jocyneto/MBADevBackEnd)
-
-#### Desenvolvimento Backend II – Django
-- Acesse clicando AQUI 
 
 ---
 
