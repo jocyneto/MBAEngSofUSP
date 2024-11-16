@@ -37,6 +37,9 @@ Este repositório funcionara através de outros repositórios criados no Github 
 
 ### MÓDULO: DESENVOLVIMENTO
 
+#### Paradigmas de Desenvolvimento de Software
+- Acesse [clicando AQUI](https://github.com/jocyneto/MBAParadigmasProgramacao)
+
 #### Gerenciamento de Testes (TDD)
 - Acesse clicando AQUI
 
@@ -56,9 +59,6 @@ Este repositório funcionara através de outros repositórios criados no Github 
 - Acesse clicando AQUI
 
 #### Gerenciamento e Estruturas de Filas
-- Acesse clicando AQUI
-
-#### Paradigmas de Desenvolvimento de Software
 - Acesse clicando AQUI
 
 #### Gerenciamento e Estruturação de APIs
