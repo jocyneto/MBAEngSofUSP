@@ -38,80 +38,80 @@ Este repositório funcionara através de outros repositórios criados no Github 
 ### MÓDULO: DESENVOLVIMENTO
 
 #### Paradigmas de Desenvolvimento de Software
-- Acesse [clicando AQUI](https://github.com/jocyneto/MBAParadigmasProgramacao)
+- Acesse [**Clicando aqui**](https://github.com/jocyneto/MBAParadigmasProgramacao)
 
 #### Gerenciamento de Testes (TDD)
-- Acesse clicando AQUI
+- Acesse [**Clicando aqui**](https://github.com/jocyneto/MBAGerenciamentoDeTestes)
 
 #### Domain Driven Design (DDD)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Padrões de Projetos (Design Patterns)
-- Acesse clicando AQUI
+- Acesse 
 
 #### NoSQL X SQL
-- Acesse clicando AQUI
+- Acesse 
 
 #### Arquitetura Mobile
-- Acesse clicando AQUI
+- Acesse 
 
 #### Micro-front-end
-- Acesse clicando AQUI
+- Acesse 
 
 #### Gerenciamento e Estruturas de Filas
-- Acesse clicando AQUI
+- Acesse 
 
 #### Gerenciamento e Estruturação de APIs
-- Acesse clicando AQUI
+- Acesse 
 
 #### IoT
-- Acesse clicando AQUI
+- Acesse 
 
 #### Gestão da Mudança (Change Management)
-- Acesse clicando AQUI
+- Acesse 
 
 ---
 
 ### MÓDULO: GESTÃO E CLOUD
 
 #### Microsserviços
-- Acesse clicando AQUI
+- Acesse 
 
 #### Autenticação e Segurança em Microsserviços
-- Acesse clicando AQUI
+- Acesse 
 
 #### Orquestração de Containers (Kubernetes)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Conteinerização de Serviços (Docker)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Cloud Computing (IaaS, PaaS, SaaS)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Infra as a Code (IaC)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Serverless
-- Acesse clicando AQUI
+- Acesse 
 
 #### DevOps
-- Acesse clicando AQUI
+- Acesse 
 
 #### Métodos Ágeis
-- Acesse clicando AQUI
+- Acesse 
 
 #### User Experience (UX)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Comunicação
-- Acesse clicando AQUI
+- Acesse 
 
 #### Fundamentos da Segurança da Informação
-- Acesse clicando AQUI
+- Acesse 
 
 #### Investimentos e Valuation de Empresas
-- Acesse clicando AQUI
+- Acesse 
 
 
 ---
@@ -119,40 +119,40 @@ Este repositório funcionara através de outros repositórios criados no Github 
 ### MÓDULO: DADOS E NEGÓCIOS
 
 #### Engenharia de Dados
-- Acesse clicando AQUI
+- Acesse 
 
 #### Event Storming em Projetos de Software
-- Acesse clicando AQUI
+- Acesse 
 
 #### Tendências em Inteligência Artificial e Big Data
-- Acesse clicando AQUI
+- Acesse 
 
 #### Observabilidade e Monitoramento
-- Acesse clicando AQUI
+- Acesse  
 
 #### Liderança em Projetos de Tecnologia
-- Acesse clicando AQUI
+- Acesse 
 
 #### Arquitetura Limpa (Clean Architecture)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Técnicas de Machine Learning
-- Acesse clicando AQUI
+- Acesse 
 
 #### Legislação no Ambiente Digital (LGPD)
-- Acesse clicando AQUI
+- Acesse 
 
 #### Design Thinking
-- Acesse clicando AQUI
+- Acesse 
 
 #### Mindset Canvas e Plano de Negócio
-- Acesse clicando AQUI
+- Acesse 
 
 #### Gestão de Conflitos
-- Acesse clicando AQUI
+- Acesse 
 
 #### Inteligência Emocional
-- Acesse clicando AQUI
+- Acesse 
 
 #### Blockchain e Criptomoedas
-- Acesse clicando AQUI
+- Acesse 
