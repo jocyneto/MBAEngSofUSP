@@ -44,10 +44,11 @@ Este repositório funcionara através de outros repositórios criados no Github 
 - Acesse [**Clicando aqui**](https://github.com/jocyneto/MBAGerenciamentoDeTestes)
 
 #### Domain Driven Design (DDD)
-- Acesse 
+- Acesse DDD 1: [**Clicando aqui**](https://github.com/jocyneto/MBADomainDriveDesign)
+- Acesse DDD 2: [**Clicando aqui**](https://github.com/jocyneto/MBADomainDriveDesign2)
 
 #### Padrões de Projetos (Design Patterns)
-- Acesse 
+- Acesse [**Clicando aqui**](https://github.com/jocyneto/MBADesignPatters)
 
 #### NoSQL X SQL
 - Acesse 
